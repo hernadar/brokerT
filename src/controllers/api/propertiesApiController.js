@@ -261,6 +261,10 @@ const controller = {
 
                 property[i].image = 'data:image/jpg;base64,' + imagenBase64
             }
+            if (extension === 'jpeg') {
+
+                property[i].image = 'data:image/jpg;base64,' + imagenBase64
+            }
         }
         let response = {
             meta: {
@@ -290,6 +294,10 @@ const controller = {
                 property[i].image = 'data:image/png;base64,' + imagenBase64
             }
             if (extension === 'jpg') {
+
+                property[i].image = 'data:image/jpg;base64,' + imagenBase64
+            }
+            if (extension === 'jpeg') {
 
                 property[i].image = 'data:image/jpg;base64,' + imagenBase64
             }
