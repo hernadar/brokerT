@@ -24,8 +24,8 @@ const controller = {
 
                     properties[i].image = 'data:image/jpg;base64,' + imagenBase64
                 }
-                if (extension === 'jpeg') {
-
+                if (extension === 'peg') {
+                    console.log(imagenBase64)
                     properties[i].image = 'data:image/jpeg;base64,' + imagenBase64
                 }
             }
@@ -261,7 +261,7 @@ const controller = {
 
                 property[i].image = 'data:image/jpg;base64,' + imagenBase64
             }
-            if (extension === 'jpeg') {
+            if (extension === 'peg') {
 
                 property[i].image = 'data:image/jpeg;base64,' + imagenBase64
             }
@@ -297,7 +297,7 @@ const controller = {
 
                 property[i].image = 'data:image/jpg;base64,' + imagenBase64
             }
-            if (extension === 'jpeg') {
+            if (extension === 'peg') {
 
                 property[i].image = 'data:image/jpeg;base64,' + imagenBase64
             }
