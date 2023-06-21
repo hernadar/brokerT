@@ -24,6 +24,10 @@ const controller = {
 
                     properties[i].image = 'data:image/jpg;base64,' + imagenBase64
                 }
+                if (extension === 'jpeg') {
+
+                    properties[i].image = 'data:image/jpge;base64,' + imagenBase64
+                }
             }
         }
         let response = {
