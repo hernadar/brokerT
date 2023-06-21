@@ -26,7 +26,7 @@ const controller = {
                 }
                 if (extension === 'jpeg') {
 
-                    properties[i].image = 'data:image/jpge;base64,' + imagenBase64
+                    properties[i].image = 'data:image/jpeg;base64,' + imagenBase64
                 }
             }
         }
@@ -263,7 +263,7 @@ const controller = {
             }
             if (extension === 'jpeg') {
 
-                property[i].image = 'data:image/jpg;base64,' + imagenBase64
+                property[i].image = 'data:image/jpeg;base64,' + imagenBase64
             }
         }
         let response = {
@@ -299,7 +299,7 @@ const controller = {
             }
             if (extension === 'jpeg') {
 
-                property[i].image = 'data:image/jpg;base64,' + imagenBase64
+                property[i].image = 'data:image/jpeg;base64,' + imagenBase64
             }
         }
         let response = {
