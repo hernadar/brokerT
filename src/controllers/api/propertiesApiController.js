@@ -25,7 +25,7 @@ const controller = {
                     properties[i].image = 'data:image/jpg;base64,' + imagenBase64
                 }
                 if (extension === 'peg') {
-                    console.log(imagenBase64)
+                  
                     properties[i].image = 'data:image/jpeg;base64,' + imagenBase64
                 }
             }
