@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bedefd3.css",
-    "main.js": "/static/js/main.b21f6486.js",
+    "main.css": "/static/css/main.365dd3ea.css",
+    "main.js": "/static/js/main.57e8b33c.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/3.jpg": "/static/media/3.e97e8661220c8882c9da.jpg",
     "static/media/5.jpg": "/static/media/5.a8e636187e4fdf14ef0b.jpg",
@@ -14,12 +14,12 @@
     "static/media/LogoBrokerTosi.png": "/static/media/LogoBrokerTosi.48a7197a2a8a9b392a35.png",
     "static/media/uploadpicture.png": "/static/media/uploadpicture.8493eaa2fd246a699c67.png",
     "index.html": "/index.html",
-    "main.0bedefd3.css.map": "/static/css/main.0bedefd3.css.map",
-    "main.b21f6486.js.map": "/static/js/main.b21f6486.js.map",
+    "main.365dd3ea.css.map": "/static/css/main.365dd3ea.css.map",
+    "main.57e8b33c.js.map": "/static/js/main.57e8b33c.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bedefd3.css",
-    "static/js/main.b21f6486.js"
+    "static/css/main.365dd3ea.css",
+    "static/js/main.57e8b33c.js"
   ]
 }
